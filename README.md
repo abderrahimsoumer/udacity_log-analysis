@@ -37,14 +37,19 @@ python3 report.py
  1. The most popular three articles of all time:
 
 	Candidate is jerk, alleges rival -- 338647
+	
 	Bears love berries, alleges bear -- 253801
+	
 	Bad things gone, say good people -- 170098
 
 2. The most popular article authors of all time:
 
 	Ursula La Multa -- 507594
+	
 	Rudolf von Treppenwitz -- 423457
+	
 	Anonymous Contributor -- 170098
+	
 	Markoff Chaney -- 84557
 
 3. Days did more than 1% of requests lead to errors:
